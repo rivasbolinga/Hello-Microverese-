@@ -5,7 +5,7 @@
 Hello-Microverse-
 
 ## Languages
-HTML
+HTML and 
 CSS
 
 ## Getting Started
