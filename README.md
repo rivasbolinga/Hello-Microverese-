@@ -14,7 +14,10 @@ Hello-Microverse-
 
 ---->Open pull requests in GitHub. 
 
----->Add descriptive README file
+---->Add descriptive README file.
+
+
+---->Write descriptive commit messages.
 
 👤 Author
 
