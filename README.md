@@ -12,7 +12,9 @@ Hello-Microverse-
 
 ---->Follow GitHub flow.
 
----->Open pull requests in GitHub.
+---->Open pull requests in GitHub. 
+
+---->Add descriptive README file
 
 👤 Author
 
@@ -25,7 +27,6 @@ Hello-Microverse-
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
